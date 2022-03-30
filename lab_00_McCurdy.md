@@ -5,13 +5,6 @@
 
 # CSCE 660, Lab 0: Survey - 2Lt Thomas J. McCurdy
 
-## Objective:  
-Receive a baseline assessment of students 
-
-
-## Due Date: 
-2200 on 5 April 2022
-
 ## Write-up: 
 ### 1.	Have you identified your research topic / or research question?  If so, what is it?
 
