@@ -3,13 +3,11 @@
 </div><br clear="all" /><br>
 
 
-# CSCE 660, Lab 0: Survey
+# CSCE 660, Lab 0: Survey - 2Lt Thomas J. McCurdy
 
 ## Objective:  
 Receive a baseline assessment of students 
 
-## References:
-N/A
 
 ## Due Date: 
 2200 on 5 April 2022
