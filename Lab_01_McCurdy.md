@@ -23,8 +23,8 @@
 Applications include controlling motors, pumps, fans, or other machinery with Industrial uses.
 
 #### 2.	What are two examples of Air Force applications that might use the MicroLogix 1100?  Provide links to the article(s) or AF websites to support the examples.  Do not include any academic publications such as AFIT theses.
-Weapons systems such as Nuclear Weapons or Aircraft - https://www.lockheedmartin.com/en-us/products/f-35/f-35-capabilities.html
-Logistical systems such as fueling or base management (HVAC, power distribuition, water treatment etc) - https://www.businessinsider.com/us-air-force-combat-jets-refuel-navy-military-aerial-fighter-2018-12
+1. Weapons systems such as Nuclear Weapons or Aircraft - https://www.lockheedmartin.com/en-us/products/f-35/f-35-capabilities.html
+2. Logistical systems such as fueling or base management (HVAC, power distribuition, water treatment etc) - https://www.businessinsider.com/us-air-force-combat-jets-refuel-navy-military-aerial-fighter-2018-12
 
 #### 3.	Find links to three academic articles related to the MicroLogix 1100.
 1. https://www.jstor.org/stable/26486850?casa_token=dXVsh0bWNPIAAAAA%3AogpCnvh0N9YKdE3wVmjwc-V2U-fCLFQQr5fef_ZZH9BUyO70ylUxEpYkugjTX2mUBb3rTUQIWrN_B3Mqfq_9oQ24abQCKdQEVsisp5VKBt8vtQ6YxDE&seq=1
@@ -60,7 +60,7 @@ Common Industrial Protocol
 2. Denial of Service - CVE-2020-6111 - Allen-Bradely MicroLogix 1100: 10 - 16 - https://www.cybersecurity-help.cz/vdb/SB2020101370
 
 #### 12. Use Shodan to find at least 500 internet-facing MicroLogix 1100 PLCs (do not visit their IP addresses or communicate with them).  What exact search term did you use? How many devices did you find? What are the top three countries that use these PLCs?  
-Port:44818 product:"Rockwell Automation/Allen-Bradley"
+Port:44818 product:"Rockwell Automation/Allen-Bradley" - Best search I found before I hit the limit of searches. Found 4,455 devices with the top countries being the US, China, and Republic of Korea
   
 ### Mobile - IoT
 #### 1.	What are some dynamic and static reverse engineering tools for Android applications?
