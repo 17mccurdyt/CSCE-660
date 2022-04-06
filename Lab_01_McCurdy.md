@@ -95,7 +95,11 @@ A mobile phone has 4 IP addresses. Protocols include Mobile IP (MIP) and ICMP Ro
 A mobile phone has 1 MAC address, one protocol that uses them is ARP, and you can find the MAC addresses by going to your phones settings and consulting my device/network settings.
 
 #### 12. What are the ways that mobile applications can send and receive data between other applications?  For example, you can launch the camera from a messaging application (e.g., Whatsapp) on an Android device.  
+Most mobile appplications and the underlying operating system allows for API calls to hardware devices or programs so they can be used by other approved applications. An example of this is Android's Intent. 
 
 #### 13. How does inter-process communication differ from Android to iPhone devices? 
+Android makes use of 'intents' or the Adorid sharesheet. The recieved data has a MIME type set by the providing app and the data can be recieved by an Activity with a matching intent-filter tag in the manifest, one or more ChooserTarget objects returned by the ChooserTargetService, or by using sharing shortcuts published by the app. Iphones don't allow processes to directly communicate between programs and implements IPC through sending notification flags or chunks of data using specific programs such as XPC, CPDistributedMessagingCenter, or Unix Sockets to name some.
 
 #### 14. How might a threat actor install an unwanted application on a mobile phone?
+If the mobile phone uses the google play store a threat actor could use social engineering to harvest the credentials and use the google play store to remotely install applications. Another way would be to send a malicious script that when ran downloads the application or installs a backdoor that lets the threat actor control the phone remotely. 
+
