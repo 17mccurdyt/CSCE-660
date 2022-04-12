@@ -14,5 +14,6 @@
 
 ### Provide a screenshot of RSLogix connected to your PLC in Online mode (REMOTE RUN or REMOTE PROGRAM).
 
-![6](./images/6.png)
-
+<p align="center">
+  <img width="460" height="300" src="./images/6.png">
+</p>
