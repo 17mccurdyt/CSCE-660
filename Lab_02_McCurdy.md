@@ -3,18 +3,23 @@
 
 ## Write-up
 ### 1.	Demonstrate that you completed the tasks.
+VMware Tasks Android Studio, open-jdk, and VM Settings:
 <p align="center">
   <img width="460" height="300" src="./images/vm.png">
 </p>
+Installed conda:
 <p align="center">
   <img width="460" height="300" src="./images/2.png">
 </p>
+Python3 environment and Frida:
 <p align="center">
   <img width="460" height="300" src="./images/3.png">
 </p>
+Jadx and scrcpy:
 <p align="center">
   <img width="460" height="300" src="./images/4.png">
 </p>
+Rooting the phone:
 <p align="center">
   <img width="460" height="300" src="./images/5.png">
 </p>
